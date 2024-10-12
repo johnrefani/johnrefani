@@ -10,7 +10,7 @@ I’m currently enhancing my skills in advanced web development, focusing on mod
 I’m looking to collaborate on projects that aim to make learning more engaging and accessible. If you have an exciting project in mind, especially in the realm of educational technology, let’s connect!
 
 ## 📫 How to Reach Me
-Feel free to reach out to me through my [GitHub](https://github.com/johnrefani) profile or via email at [johnrefani@example.com](mailto:johnrefani@example.com).
+Feel free to reach out to me through my [GitHub](https://github.com/johnrefani) profile or via gmail at [jhnrefani@gmail.com](mailto:jhnrefani@gmail.com).
 
 ## 😄 Pronouns
 He/Him
