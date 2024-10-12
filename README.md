@@ -1,7 +1,3 @@
-Sure, here's a draft for your GitHub profile README:
-
----
-
 # Hi there, I’m John Refani 👋
 
 ## 👀 About Me
@@ -29,7 +25,3 @@ Here are some of the projects I’ve worked on:
 - **VB.Net Applications**: Building robust desktop applications with VB.Net.
 - **MySQL Database Integrations**: Integrating MySQL databases to ensure seamless data management.
 - **Web Development**: Crafting responsive websites using HTML, CSS, and Typescript.
-
----
-
-Feel free to adjust any section to better fit your personal style or additional information you might want to include!
